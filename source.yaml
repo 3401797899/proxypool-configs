@@ -24,6 +24,22 @@
   options:
     url: https://v2.mtoly.xyz/api/v1/client/subscribe?token=f81dadaf0eece380cfed245fbc106034&flag=v2ray
 
+- type: subscribe
+  options:
+    url: https://fq.lonxin.net/vmess/sub
+
+- type: subscribe
+  options:
+    url: https://fq.lonxin.net/trojan/sub
+
+- type: subscribe
+  options:
+    url: http://clash.3wking.com:12580/vmess/sub
+
+- type: subscribe
+  options:
+    url: http://clash.3wking.com:12580/trojan/sub
+
 # 订阅链接
 - type: subscribe
   options:

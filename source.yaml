@@ -8,20 +8,36 @@
   options:
     url: https://raw.githubusercontent.com/ssrsub/ssr/master/ss-sub
 
+- type: subscribe
+  options: 
+    url: https://raw.githubusercontent.com/colatiger/v2ray-nodes/master/proxy.md
+
+- type: subscribe
+  options: 
+    url: https://w10000.github.io/v2ray.md
+
+- type: subscribe
+  options:
+    url: http://freeip.ml/v2ray
+
+- type: subscribe
+  options:
+    url: https://v2.mtoly.xyz/api/v1/client/subscribe?token=f81dadaf0eece380cfed245fbc106034&flag=v2ray
+
+# 订阅链接
+- type: subscribe
+  options:
+    url: https://muma16fx.netlify.app/
+
+# 订阅链接
+- type: subscribe
+  options:
+    url: https://raw.githubusercontent.com/aiboboxx/v2rayfree/main/v2
+
 # 订阅链接
 - type: subscribe
   options:
     url: https://raw.githubusercontent.com/ermaozi/get_subscribe/main/subscribe/v2ray.txt
-
-# 订阅链接
-- type: subscribe
-  options:
-    url: https://manage.ermao.net/user/subscribe?u=blog&p=fDyim6EdD&t=v2ray
-
-# 订阅链接
-- type: subscribe
-  options:
-    url: https://qiaomenzhuanfx.netlify.app/
 
 # 订阅链接
 - type: subscribe
@@ -41,17 +57,7 @@
 # 订阅链接
 - type: subscribe
   options:
-    url: https://zeroyyds.cc/api/v1/client/subscribe?token=4ced924eda11b55c5c987e813b076b28
-
-# 订阅链接
-- type: subscribe
-  options:
     url: https://jiang.netlify.app/
-
-# 订阅链接
-- type: subscribe
-  options:
-    url: https://muma16fx.netlify.app/
 
 # 订阅链接
 - type: subscribe

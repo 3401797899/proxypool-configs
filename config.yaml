@@ -11,4 +11,4 @@ cf_key: ""
 # source definition file
 source-files:
   # use web file
-  - https://raw.githubusercontent.com/rdp-studio/proxypool-configs/main/source.yaml
+  - https://raw.githubusercontent.com/3401797899/proxypool-configs/main/source.yaml

@@ -9,6 +9,17 @@
     url: https://raw.githubusercontent.com/ssrsub/ssr/master/ss-sub
 
 - type: subscribe
+  options:
+    url: https://proxy.ednovas.xyz/clash/proxies
+- type: subscribe
+  options:
+    url: https://smart.zxcyec.top/clash/proxies
+
+- type: subscribe
+  options: 
+    url: https://api.buliang0.cf/easyclash
+
+- type: subscribe
   options: 
     url: https://raw.githubusercontent.com/colatiger/v2ray-nodes/master/proxy.md
 

@@ -7,6 +7,9 @@
 - type: subscribe
   options:
     url: https://raw.githubusercontent.com/ssrsub/ssr/master/ss-sub
+- type: webfuzzsub
+  options:
+    url: https://raw.githubusercontent.com/3401797899/proxypool-configs/main/mohu.list
 
 - type: clash
   options:

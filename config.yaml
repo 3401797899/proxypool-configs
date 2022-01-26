@@ -1,6 +1,8 @@
 # your domain
 domain: proxypool-bai.herokuapp.com
 
+speedtest: true
+
 # database url
 database_url: ""
 

@@ -13,11 +13,11 @@
 
 - type: clash
   options:
-    url: https://proxy.ednovas.xyz/clash/config
+    url: https://proxy.ednovas.xyz/clash/proxies
 
 - type: subscribe
   options:
-    url: https://smart.zxcyec.top/clash/config
+    url: https://smart.zxcyec.top/clash/proxies
 
 - type: clash
   options: 
@@ -41,11 +41,11 @@
 
 - type: clash
   options:
-    url: https://fq.lonxin.net/clash/config
+    url: https://fq.lonxin.net/clash/proxies
 
 - type: clash
   options:
-    url: http://clash.3wking.com:12580/clash/config
+    url: http://clash.3wking.com:12580/clash/proxies
 
 # 订阅链接
 - type: subscribe
